@@ -7,9 +7,13 @@ Ringo line 4
 Ringo line 5
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ringo line 6+
 =======
 >>>>>>> fcb014c91fef04590783d3f183c2f087d0c57065
+=======
+Ringo line 6
+>>>>>>> parent of fcb014c... Revert "Ringo added line 6..."
 =======
 Ringo line 6
 >>>>>>> parent of fcb014c... Revert "Ringo added line 6..."
